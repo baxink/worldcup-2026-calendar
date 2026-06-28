@@ -7,11 +7,11 @@
     "away_team_zh": "南非",
     "start_time_utc": "2026-06-11T19:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "墨西哥 墨西哥城 墨西哥城体育场",
+    "venue": "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -22,11 +22,11 @@
     "away_team_zh": "捷克",
     "start_time_utc": "2026-06-12T02:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场",
+    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -37,11 +37,11 @@
     "away_team_zh": "波黑",
     "start_time_utc": "2026-06-12T19:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -52,11 +52,11 @@
     "away_team_zh": "巴拉圭",
     "start_time_utc": "2026-06-13T01:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "finished",
     "home_score": 4,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -67,11 +67,11 @@
     "away_team_zh": "瑞士",
     "start_time_utc": "2026-06-13T19:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -82,11 +82,11 @@
     "away_team_zh": "摩洛哥",
     "start_time_utc": "2026-06-13T22:00:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -97,11 +97,11 @@
     "away_team_zh": "苏格兰",
     "start_time_utc": "2026-06-14T01:00:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -112,11 +112,11 @@
     "away_team_zh": "土耳其",
     "start_time_utc": "2026-06-14T04:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -127,11 +127,11 @@
     "away_team_zh": "库拉索",
     "start_time_utc": "2026-06-14T17:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "finished",
     "home_score": 7,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -142,11 +142,11 @@
     "away_team_zh": "日本",
     "start_time_utc": "2026-06-14T20:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -157,11 +157,11 @@
     "away_team_zh": "厄瓜多尔",
     "start_time_utc": "2026-06-14T23:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -172,11 +172,11 @@
     "away_team_zh": "突尼斯",
     "start_time_utc": "2026-06-15T02:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "墨西哥 蒙特雷 蒙特雷体育场",
+    "venue": "墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）",
     "status": "finished",
     "home_score": 5,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -187,11 +187,11 @@
     "away_team_zh": "佛得角",
     "start_time_utc": "2026-06-15T16:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -202,11 +202,11 @@
     "away_team_zh": "埃及",
     "start_time_utc": "2026-06-15T19:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -217,11 +217,11 @@
     "away_team_zh": "乌拉圭",
     "start_time_utc": "2026-06-15T22:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -232,11 +232,11 @@
     "away_team_zh": "新西兰",
     "start_time_utc": "2026-06-16T01:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -247,11 +247,11 @@
     "away_team_zh": "塞内加尔",
     "start_time_utc": "2026-06-16T19:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -262,11 +262,11 @@
     "away_team_zh": "挪威",
     "start_time_utc": "2026-06-16T22:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 4,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -277,11 +277,11 @@
     "away_team_zh": "阿尔及利亚",
     "start_time_utc": "2026-06-17T01:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -292,11 +292,11 @@
     "away_team_zh": "约旦",
     "start_time_utc": "2026-06-17T04:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -307,11 +307,11 @@
     "away_team_zh": "刚果民主共和国",
     "start_time_utc": "2026-06-17T17:00:00Z",
     "stage": "小组赛 K组",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -322,11 +322,11 @@
     "away_team_zh": "克罗地亚",
     "start_time_utc": "2026-06-17T20:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "finished",
     "home_score": 4,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -337,11 +337,11 @@
     "away_team_zh": "巴拿马",
     "start_time_utc": "2026-06-17T23:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -352,11 +352,11 @@
     "away_team_zh": "哥伦比亚",
     "start_time_utc": "2026-06-18T02:00:00Z",
     "stage": "小组赛 K组",
-    "venue": "墨西哥 墨西哥城 墨西哥城体育场",
+    "venue": "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -367,11 +367,11 @@
     "away_team_zh": "南非",
     "start_time_utc": "2026-06-18T16:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -382,11 +382,11 @@
     "away_team_zh": "波黑",
     "start_time_utc": "2026-06-18T19:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "finished",
     "home_score": 4,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -397,11 +397,11 @@
     "away_team_zh": "卡塔尔",
     "start_time_utc": "2026-06-18T22:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "finished",
     "home_score": 6,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -412,11 +412,11 @@
     "away_team_zh": "韩国",
     "start_time_utc": "2026-06-19T01:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场",
+    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -427,11 +427,11 @@
     "away_team_zh": "澳大利亚",
     "start_time_utc": "2026-06-19T19:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -442,11 +442,11 @@
     "away_team_zh": "摩洛哥",
     "start_time_utc": "2026-06-19T22:00:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -457,11 +457,11 @@
     "away_team_zh": "海地",
     "start_time_utc": "2026-06-20T00:30:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -472,11 +472,11 @@
     "away_team_zh": "巴拉圭",
     "start_time_utc": "2026-06-20T03:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -487,11 +487,11 @@
     "away_team_zh": "瑞典",
     "start_time_utc": "2026-06-20T17:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "finished",
     "home_score": 5,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -502,11 +502,11 @@
     "away_team_zh": "科特迪瓦",
     "start_time_utc": "2026-06-20T20:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -517,11 +517,11 @@
     "away_team_zh": "库拉索",
     "start_time_utc": "2026-06-21T00:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -532,11 +532,11 @@
     "away_team_zh": "日本",
     "start_time_utc": "2026-06-21T04:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "墨西哥 蒙特雷 蒙特雷体育场",
+    "venue": "墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 4,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -547,11 +547,11 @@
     "away_team_zh": "沙特阿拉伯",
     "start_time_utc": "2026-06-21T16:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "finished",
     "home_score": 4,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -562,11 +562,11 @@
     "away_team_zh": "伊朗",
     "start_time_utc": "2026-06-21T19:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -577,11 +577,11 @@
     "away_team_zh": "佛得角",
     "start_time_utc": "2026-06-21T22:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -592,11 +592,11 @@
     "away_team_zh": "埃及",
     "start_time_utc": "2026-06-22T01:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "finished",
     "home_score": 1,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -607,11 +607,11 @@
     "away_team_zh": "奥地利",
     "start_time_utc": "2026-06-22T17:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -622,11 +622,11 @@
     "away_team_zh": "伊拉克",
     "start_time_utc": "2026-06-22T21:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -637,11 +637,11 @@
     "away_team_zh": "塞内加尔",
     "start_time_utc": "2026-06-23T00:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -652,11 +652,11 @@
     "away_team_zh": "阿尔及利亚",
     "start_time_utc": "2026-06-23T03:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -667,11 +667,11 @@
     "away_team_zh": "乌兹别克斯坦",
     "start_time_utc": "2026-06-23T17:00:00Z",
     "stage": "小组赛 K组",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "finished",
     "home_score": 5,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -682,11 +682,11 @@
     "away_team_zh": "加纳",
     "start_time_utc": "2026-06-23T20:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -697,11 +697,11 @@
     "away_team_zh": "克罗地亚",
     "start_time_utc": "2026-06-23T23:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -712,11 +712,11 @@
     "away_team_zh": "刚果民主共和国",
     "start_time_utc": "2026-06-24T02:00:00Z",
     "stage": "小组赛 K组",
-    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场",
+    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -727,11 +727,11 @@
     "away_team_zh": "卡塔尔",
     "start_time_utc": "2026-06-24T19:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -742,11 +742,11 @@
     "away_team_zh": "加拿大",
     "start_time_utc": "2026-06-24T19:00:00Z",
     "stage": "小组赛 B组",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -757,11 +757,11 @@
     "away_team_zh": "海地",
     "start_time_utc": "2026-06-24T22:00:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "finished",
     "home_score": 4,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -772,11 +772,11 @@
     "away_team_zh": "巴西",
     "start_time_utc": "2026-06-24T22:00:00Z",
     "stage": "小组赛 C组",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -787,11 +787,11 @@
     "away_team_zh": "墨西哥",
     "start_time_utc": "2026-06-25T01:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "墨西哥 墨西哥城 墨西哥城体育场",
+    "venue": "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -802,11 +802,11 @@
     "away_team_zh": "韩国",
     "start_time_utc": "2026-06-25T01:00:00Z",
     "stage": "小组赛 A组",
-    "venue": "墨西哥 蒙特雷 蒙特雷体育场",
+    "venue": "墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -817,11 +817,11 @@
     "away_team_zh": "德国",
     "start_time_utc": "2026-06-25T20:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -832,11 +832,11 @@
     "away_team_zh": "科特迪瓦",
     "start_time_utc": "2026-06-25T20:00:00Z",
     "stage": "小组赛 E组",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -847,11 +847,11 @@
     "away_team_zh": "瑞典",
     "start_time_utc": "2026-06-25T23:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -862,11 +862,11 @@
     "away_team_zh": "荷兰",
     "start_time_utc": "2026-06-25T23:00:00Z",
     "stage": "小组赛 F组",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -877,11 +877,11 @@
     "away_team_zh": "美国",
     "start_time_utc": "2026-06-26T02:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -892,11 +892,11 @@
     "away_team_zh": "澳大利亚",
     "start_time_utc": "2026-06-26T02:00:00Z",
     "stage": "小组赛 D组",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -907,11 +907,11 @@
     "away_team_zh": "法国",
     "start_time_utc": "2026-06-26T19:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 4,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -922,11 +922,11 @@
     "away_team_zh": "伊拉克",
     "start_time_utc": "2026-06-26T19:00:00Z",
     "stage": "小组赛 I组",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "finished",
     "home_score": 5,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -937,11 +937,11 @@
     "away_team_zh": "西班牙",
     "start_time_utc": "2026-06-27T00:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场",
+    "venue": "墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -952,11 +952,11 @@
     "away_team_zh": "沙特阿拉伯",
     "start_time_utc": "2026-06-27T00:00:00Z",
     "stage": "小组赛 H组",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -967,11 +967,11 @@
     "away_team_zh": "伊朗",
     "start_time_utc": "2026-06-27T03:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -982,11 +982,11 @@
     "away_team_zh": "比利时",
     "start_time_utc": "2026-06-27T03:00:00Z",
     "stage": "小组赛 G组",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "finished",
     "home_score": 1,
     "away_score": 5,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -997,11 +997,11 @@
     "away_team_zh": "英格兰",
     "start_time_utc": "2026-06-27T21:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 2,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1012,11 +1012,11 @@
     "away_team_zh": "加纳",
     "start_time_utc": "2026-06-27T21:00:00Z",
     "stage": "小组赛 L组",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "finished",
     "home_score": 2,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1027,11 +1027,11 @@
     "away_team_zh": "乌兹别克斯坦",
     "start_time_utc": "2026-06-27T23:30:00Z",
     "stage": "小组赛 K组",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 1,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1042,11 +1042,11 @@
     "away_team_zh": "葡萄牙",
     "start_time_utc": "2026-06-27T23:30:00Z",
     "stage": "小组赛 K组",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "finished",
     "home_score": 0,
     "away_score": 0,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1057,11 +1057,11 @@
     "away_team_zh": "阿根廷",
     "start_time_utc": "2026-06-28T02:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "finished",
     "home_score": 1,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1072,11 +1072,11 @@
     "away_team_zh": "奥地利",
     "start_time_utc": "2026-06-28T02:00:00Z",
     "stage": "小组赛 J组",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "finished",
     "home_score": 3,
     "away_score": 3,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1087,11 +1087,11 @@
     "away_team_zh": "加拿大",
     "start_time_utc": "2026-06-28T19:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1102,11 +1102,11 @@
     "away_team_zh": "日本",
     "start_time_utc": "2026-06-29T17:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1117,11 +1117,11 @@
     "away_team_zh": "巴拉圭",
     "start_time_utc": "2026-06-29T20:30:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1132,11 +1132,11 @@
     "away_team_zh": "摩洛哥",
     "start_time_utc": "2026-06-30T01:00:00Z",
     "stage": "三十二强赛",
-    "venue": "墨西哥 蒙特雷 蒙特雷体育场",
+    "venue": "墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1147,11 +1147,11 @@
     "away_team_zh": "挪威",
     "start_time_utc": "2026-06-30T17:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1162,11 +1162,11 @@
     "away_team_zh": "瑞典",
     "start_time_utc": "2026-06-30T21:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1177,11 +1177,11 @@
     "away_team_zh": "厄瓜多尔",
     "start_time_utc": "2026-07-01T01:00:00Z",
     "stage": "三十二强赛",
-    "venue": "墨西哥 墨西哥城 墨西哥城体育场",
+    "venue": "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1192,11 +1192,11 @@
     "away_team_zh": "刚果民主共和国",
     "start_time_utc": "2026-07-01T16:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1207,11 +1207,11 @@
     "away_team_zh": "塞内加尔",
     "start_time_utc": "2026-07-01T20:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1222,11 +1222,11 @@
     "away_team_zh": "波黑",
     "start_time_utc": "2026-07-02T00:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 旧金山湾区 旧金山湾区体育场",
+    "venue": "美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1237,11 +1237,11 @@
     "away_team_zh": "奥地利",
     "start_time_utc": "2026-07-02T19:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1252,11 +1252,11 @@
     "away_team_zh": "克罗地亚",
     "start_time_utc": "2026-07-02T23:00:00Z",
     "stage": "三十二强赛",
-    "venue": "加拿大 多伦多 多伦多体育场",
+    "venue": "加拿大 多伦多 多伦多体育场（BMO球场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1267,11 +1267,11 @@
     "away_team_zh": "阿尔及利亚",
     "start_time_utc": "2026-07-03T03:00:00Z",
     "stage": "三十二强赛",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1282,11 +1282,11 @@
     "away_team_zh": "埃及",
     "start_time_utc": "2026-07-03T18:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1297,11 +1297,11 @@
     "away_team_zh": "佛得角",
     "start_time_utc": "2026-07-03T22:00:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1312,11 +1312,11 @@
     "away_team_zh": "加纳",
     "start_time_utc": "2026-07-04T01:30:00Z",
     "stage": "三十二强赛",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1327,11 +1327,11 @@
     "away_team_zh": "胜者75",
     "start_time_utc": "2026-07-04T17:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 休斯顿 休斯顿体育场",
+    "venue": "美国 休斯顿 休斯顿体育场（NRG体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1342,11 +1342,11 @@
     "away_team_zh": "胜者77",
     "start_time_utc": "2026-07-04T21:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 费城 费城体育场",
+    "venue": "美国 费城 费城体育场（林肯金融球场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1357,11 +1357,11 @@
     "away_team_zh": "胜者78",
     "start_time_utc": "2026-07-05T20:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1372,11 +1372,11 @@
     "away_team_zh": "胜者80",
     "start_time_utc": "2026-07-06T00:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "墨西哥 墨西哥城 墨西哥城体育场",
+    "venue": "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1387,11 +1387,11 @@
     "away_team_zh": "胜者84",
     "start_time_utc": "2026-07-06T19:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1402,11 +1402,11 @@
     "away_team_zh": "胜者82",
     "start_time_utc": "2026-07-07T00:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 西雅图 西雅图体育场",
+    "venue": "美国 西雅图 西雅图体育场（流明球场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1417,11 +1417,11 @@
     "away_team_zh": "胜者88",
     "start_time_utc": "2026-07-07T16:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1432,11 +1432,11 @@
     "away_team_zh": "胜者87",
     "start_time_utc": "2026-07-07T20:00:00Z",
     "stage": "八分之一决赛",
-    "venue": "加拿大 温哥华 温哥华BC体育馆",
+    "venue": "加拿大 温哥华 温哥华BC体育馆（BC Place）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1447,11 +1447,11 @@
     "away_team_zh": "胜者90",
     "start_time_utc": "2026-07-09T20:00:00Z",
     "stage": "四分之一决赛",
-    "venue": "美国 波士顿 波士顿体育场",
+    "venue": "美国 波士顿 波士顿体育场（吉列体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1462,11 +1462,11 @@
     "away_team_zh": "胜者94",
     "start_time_utc": "2026-07-10T19:00:00Z",
     "stage": "四分之一决赛",
-    "venue": "美国 洛杉矶 洛杉矶体育场",
+    "venue": "美国 洛杉矶 洛杉矶体育场（SoFi体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1477,11 +1477,11 @@
     "away_team_zh": "胜者92",
     "start_time_utc": "2026-07-11T21:00:00Z",
     "stage": "四分之一决赛",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1492,11 +1492,11 @@
     "away_team_zh": "胜者96",
     "start_time_utc": "2026-07-12T01:00:00Z",
     "stage": "四分之一决赛",
-    "venue": "美国 堪萨斯城 堪萨斯城体育场",
+    "venue": "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1507,11 +1507,11 @@
     "away_team_zh": "胜者98",
     "start_time_utc": "2026-07-14T19:00:00Z",
     "stage": "半决赛",
-    "venue": "美国 达拉斯 达拉斯体育场",
+    "venue": "美国 达拉斯 达拉斯体育场（AT&T体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1522,11 +1522,11 @@
     "away_team_zh": "胜者100",
     "start_time_utc": "2026-07-15T19:00:00Z",
     "stage": "半决赛",
-    "venue": "美国 亚特兰大 亚特兰大体育场",
+    "venue": "美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1537,11 +1537,11 @@
     "away_team_zh": "负者102",
     "start_time_utc": "2026-07-18T21:00:00Z",
     "stage": "三四名决赛",
-    "venue": "美国 迈阿密 迈阿密体育场",
+    "venue": "美国 迈阿密 迈阿密体育场（硬石体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   },
   {
@@ -1552,11 +1552,11 @@
     "away_team_zh": "胜者102",
     "start_time_utc": "2026-07-19T19:00:00Z",
     "stage": "决赛",
-    "venue": "美国 新泽西 新泽西体育场",
+    "venue": "美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）",
     "status": "scheduled",
     "home_score": null,
     "away_score": null,
-    "last_source_update": "2026-06-28T11:08:32Z",
+    "last_source_update": "2026-06-28T11:18:53Z",
     "source_url": ""
   }
 ]

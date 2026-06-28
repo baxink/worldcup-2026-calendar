@@ -59,22 +59,22 @@ CITY_ZH: dict[str, str] = {
 }
 
 STADIUM_ZH: dict[str, str] = {
-    "Mexico City Stadium": "墨西哥城体育场",
-    "Guadalajara Stadium": "瓜达拉哈拉体育场",
-    "Monterrey Stadium": "蒙特雷体育场",
-    "Atlanta Stadium": "亚特兰大体育场",
-    "Boston Stadium": "波士顿体育场",
-    "Dallas Stadium": "达拉斯体育场",
-    "Houston Stadium": "休斯顿体育场",
-    "Kansas City Stadium": "堪萨斯城体育场",
-    "Los Angeles Stadium": "洛杉矶体育场",
-    "Miami Stadium": "迈阿密体育场",
-    "New York/New Jersey Stadium": "新泽西体育场",
-    "Philadelphia Stadium": "费城体育场",
-    "San Francisco Bay Area Stadium": "旧金山湾区体育场",
-    "Seattle Stadium": "西雅图体育场",
-    "Toronto Stadium": "多伦多体育场",
-    "BC Place Vancouver": "温哥华BC体育馆",
+    "Mexico City Stadium": "墨西哥城体育场（阿兹特克体育场）",
+    "Guadalajara Stadium": "瓜达拉哈拉体育场（阿克伦体育场）",
+    "Monterrey Stadium": "蒙特雷体育场（BBVA体育场）",
+    "Atlanta Stadium": "亚特兰大体育场（梅赛德斯-奔驰体育场）",
+    "Boston Stadium": "波士顿体育场（吉列体育场）",
+    "Dallas Stadium": "达拉斯体育场（AT&T体育场）",
+    "Houston Stadium": "休斯顿体育场（NRG体育场）",
+    "Kansas City Stadium": "堪萨斯城体育场（箭头体育场）",
+    "Los Angeles Stadium": "洛杉矶体育场（SoFi体育场）",
+    "Miami Stadium": "迈阿密体育场（硬石体育场）",
+    "New York/New Jersey Stadium": "纽约/新泽西体育场（大都会人寿体育场）",
+    "Philadelphia Stadium": "费城体育场（林肯金融球场）",
+    "San Francisco Bay Area Stadium": "旧金山湾区体育场（李维斯体育场）",
+    "Seattle Stadium": "西雅图体育场（流明球场）",
+    "Toronto Stadium": "多伦多体育场（BMO球场）",
+    "BC Place Vancouver": "温哥华BC体育馆（BC Place）",
 }
 
 

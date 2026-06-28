@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from scripts.parse_fifa import parse_matches
+from scripts.parse_fifa import STADIUM_ZH, parse_matches
 
 
 def test_parse_matches_from_fixture_json():
@@ -251,7 +251,7 @@ def test_parse_matches_from_fifa_results_localizes_team_stage_venue_and_finished
     assert m.home_team_zh == "墨西哥"
     assert m.away_team_zh == "南非"
     assert m.stage == "小组赛 A组"
-    assert m.venue == "墨西哥 墨西哥城 墨西哥城体育场"
+    assert m.venue == "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）"
     assert m.status == "finished"
     assert m.home_score == 2
     assert m.away_score == 0
@@ -276,7 +276,7 @@ def test_parse_matches_from_fifa_results_localizes_knockout_stage_and_venue():
     assert len(matches) == 1
     m = matches[0]
     assert m.stage == "四分之一决赛"
-    assert m.venue == "美国 堪萨斯城 堪萨斯城体育场"
+    assert m.venue == "美国 堪萨斯城 堪萨斯城体育场（箭头体育场）"
     assert m.status == "scheduled"
     assert m.home_score is None
     assert m.away_score is None
@@ -303,3 +303,56 @@ def test_parse_matches_from_fifa_results_uses_chinese_placeholder_labels():
     assert m.home_team_zh == "胜者73"
     assert m.away_team_zh == "负者101"
     assert m.status == "scheduled"
+
+
+def test_parse_matches_from_fifa_results_venue_includes_real_stadium_aliases():
+    item_mexico = _fifa_item(
+        IdMatch="m1",
+        HomeTeamName="Mexico",
+        AwayTeamName="Canada",
+        IdCountry="MEX",
+        CityName="Mexico City",
+        StadiumName="Mexico City Stadium",
+        MatchStatus="1",
+    )
+    payload = json.dumps({"Results": [item_mexico]})
+    teams = {"Mexico": "墨西哥", "Canada": "加拿大"}
+    matches = parse_matches(payload, teams, source_update_utc="2026-06-28T10:00:00Z")
+    assert matches[0].venue == "墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）"
+
+    item_boston = _fifa_item(
+        IdMatch="m2",
+        HomeTeamName="USA",
+        AwayTeamName="Mexico",
+        IdCountry="USA",
+        CityName="Boston",
+        StadiumName="Boston Stadium",
+        MatchStatus="1",
+    )
+    payload = json.dumps({"Results": [item_boston]})
+    teams = {"USA": "美国", "Mexico": "墨西哥"}
+    matches = parse_matches(payload, teams, source_update_utc="2026-06-28T10:00:00Z")
+    assert matches[0].venue == "美国 波士顿 波士顿体育场（吉列体育场）"
+
+
+def test_all_known_stadium_mappings_include_alias_parentheses():
+    expected = {
+        "Atlanta Stadium": "亚特兰大体育场（梅赛德斯-奔驰体育场）",
+        "BC Place Vancouver": "温哥华BC体育馆（BC Place）",
+        "Boston Stadium": "波士顿体育场（吉列体育场）",
+        "Dallas Stadium": "达拉斯体育场（AT&T体育场）",
+        "Guadalajara Stadium": "瓜达拉哈拉体育场（阿克伦体育场）",
+        "Houston Stadium": "休斯顿体育场（NRG体育场）",
+        "Kansas City Stadium": "堪萨斯城体育场（箭头体育场）",
+        "Los Angeles Stadium": "洛杉矶体育场（SoFi体育场）",
+        "Mexico City Stadium": "墨西哥城体育场（阿兹特克体育场）",
+        "Miami Stadium": "迈阿密体育场（硬石体育场）",
+        "Monterrey Stadium": "蒙特雷体育场（BBVA体育场）",
+        "New York/New Jersey Stadium": "纽约/新泽西体育场（大都会人寿体育场）",
+        "Philadelphia Stadium": "费城体育场（林肯金融球场）",
+        "San Francisco Bay Area Stadium": "旧金山湾区体育场（李维斯体育场）",
+        "Seattle Stadium": "西雅图体育场（流明球场）",
+        "Toronto Stadium": "多伦多体育场（BMO球场）",
+    }
+    for en_name, zh_expected in expected.items():
+        assert STADIUM_ZH.get(en_name) == zh_expected, f"Mismatch for {en_name}"
