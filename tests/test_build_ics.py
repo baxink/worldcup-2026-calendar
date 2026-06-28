@@ -26,7 +26,7 @@ def test_calendar_contains_stable_uid_title_and_score():
     ics = build_calendar([make_finished_match()], generated_at_utc="2026-07-20T05:30:00Z")
     assert "BEGIN:VCALENDAR" in ics
     assert "UID:final-2026@worldcup-2026-calendar" in ics
-    assert "SUMMARY:阿根廷 vs 法国" in ics
+    assert "SUMMARY:🇦🇷 阿根廷 vs 🇫🇷 法国" in ics
     assert "比分：2-1" in ics
     assert "北京时间：2026-07-20 08:00" in ics
 

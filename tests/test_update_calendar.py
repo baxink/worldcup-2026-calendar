@@ -67,7 +67,7 @@ def test_update_from_content_writes_snapshot_calendar_and_status(tmp_path: Path)
 
     update_from_content(project, content, now_utc="2026-07-20T05:30:00Z")
 
-    assert "阿根廷 vs 法国" in (project / "public" / "worldcup-2026.ics").read_text(encoding="utf-8")
+    assert "🇦🇷 阿根廷 vs 🇫🇷 法国" in (project / "public" / "worldcup-2026.ics").read_text(encoding="utf-8")
     status = json.loads((project / "public" / "status.json").read_text(encoding="utf-8"))
     assert status["matches_total"] == 1
     assert status["matches_finished"] == 1

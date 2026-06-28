@@ -4,6 +4,58 @@ from dataclasses import dataclass
 from typing import Any
 
 
+TEAM_FLAGS = {
+    "Algeria": "🇩🇿",
+    "Argentina": "🇦🇷",
+    "Australia": "🇦🇺",
+    "Austria": "🇦🇹",
+    "Belgium": "🇧🇪",
+    "Bosnia and Herzegovina": "🇧🇦",
+    "Brazil": "🇧🇷",
+    "Cabo Verde": "🇨🇻",
+    "Canada": "🇨🇦",
+    "Colombia": "🇨🇴",
+    "Congo DR": "🇨🇩",
+    "Croatia": "🇭🇷",
+    "Curaçao": "🇨🇼",
+    "Czechia": "🇨🇿",
+    "Côte d'Ivoire": "🇨🇮",
+    "Ecuador": "🇪🇨",
+    "Egypt": "🇪🇬",
+    "England": "\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F",
+    "France": "🇫🇷",
+    "Germany": "🇩🇪",
+    "Ghana": "🇬🇭",
+    "Haiti": "🇭🇹",
+    "IR Iran": "🇮🇷",
+    "Iraq": "🇮🇶",
+    "Japan": "🇯🇵",
+    "Jordan": "🇯🇴",
+    "Korea Republic": "🇰🇷",
+    "Mexico": "🇲🇽",
+    "Morocco": "🇲🇦",
+    "Netherlands": "🇳🇱",
+    "New Zealand": "🇳🇿",
+    "Norway": "🇳🇴",
+    "Panama": "🇵🇦",
+    "Paraguay": "🇵🇾",
+    "Portugal": "🇵🇹",
+    "Qatar": "🇶🇦",
+    "Saudi Arabia": "🇸🇦",
+    "Scotland": "\U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F",
+    "Senegal": "🇸🇳",
+    "South Africa": "🇿🇦",
+    "Spain": "🇪🇸",
+    "Sweden": "🇸🇪",
+    "Switzerland": "🇨🇭",
+    "Tunisia": "🇹🇳",
+    "Türkiye": "🇹🇷",
+    "USA": "🇺🇸",
+    "United States": "🇺🇸",
+    "Uruguay": "🇺🇾",
+    "Uzbekistan": "🇺🇿",
+}
+
 ALLOWED_STATUSES = {"scheduled", "live", "finished", "postponed", "cancelled"}
 STATUS_ALIASES = {
     "not_started": "scheduled",
@@ -21,6 +73,13 @@ def normalize_status(value: str) -> str:
     if normalized not in ALLOWED_STATUSES:
         raise ValueError(f"Unsupported match status: {value}")
     return normalized
+
+
+def team_title(team_en: str, team_zh: str) -> str:
+    flag = TEAM_FLAGS.get(team_en)
+    if not flag:
+        return team_zh
+    return f"{flag} {team_zh}"
 
 
 def parse_score(value: Any) -> int | None:
@@ -58,7 +117,7 @@ class Match:
 
     @property
     def title(self) -> str:
-        return f"{self.home_team_zh} vs {self.away_team_zh}"
+        return f"{team_title(self.home_team_en, self.home_team_zh)} vs {team_title(self.away_team_en, self.away_team_zh)}"
 
     @classmethod
     def from_dict(cls, data: dict[str, Any]) -> "Match":
