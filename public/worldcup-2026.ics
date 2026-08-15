@@ -6,938 +6,938 @@ METHOD:PUBLISH
 X-WR-CALNAME:2026 世界杯赛程
 BEGIN:VEVENT
 UID:400021443@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:🇲🇽 墨西哥 vs 🇿🇦 南非
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 A组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-12 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 A组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-12 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021441@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:🇰🇷 韩国 vs 🇨🇿 捷克
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 A组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-12 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 A组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-12 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021449@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:🇨🇦 加拿大 vs 🇧🇦 波黑
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 B组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-13 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 B组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-13 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021458@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:🇺🇸 美国 vs 🇵🇾 巴拉圭
-DESCRIPTION:状态：已结束\n比分：4-1\n阶段：小组赛 D组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-13 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-1\n阶段：小组赛 D组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-13 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021447@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:🇶🇦 卡塔尔 vs 🇨🇭 瑞士
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 B组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-14 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 B组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-14 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021456@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:🇧🇷 巴西 vs 🇲🇦 摩洛哥
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 C组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-14 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 C组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-14 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021453@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:🇭🇹 海地 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 C组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-14 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 C组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-14 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021463@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:🇦🇺 澳大利亚 vs 🇹🇷 土耳其
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 D组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-14 12:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 D组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-14 12:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021464@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:🇩🇪 德国 vs 🇨🇼 库拉索
-DESCRIPTION:状态：已结束\n比分：7-1\n阶段：小组赛 E组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-15 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：7-1\n阶段：小组赛 E组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-15 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021470@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:🇳🇱 荷兰 vs 🇯🇵 日本
-DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 F组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-15 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 F组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-15 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021467@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:🇨🇮 科特迪瓦 vs 🇪🇨 厄瓜多尔
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 E组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-15 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 E组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-15 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021474@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:🇸🇪 瑞典 vs 🇹🇳 突尼斯
-DESCRIPTION:状态：已结束\n比分：5-1\n阶段：小组赛 F组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-15 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：5-1\n阶段：小组赛 F组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-15 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021482@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:🇪🇸 西班牙 vs 🇨🇻 佛得角
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 H组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-16 00:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 H组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-16 00:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021478@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:🇧🇪 比利时 vs 🇪🇬 埃及
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 G组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-16 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 G组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-16 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021486@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:🇸🇦 沙特阿拉伯 vs 🇺🇾 乌拉圭
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 H组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-16 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 H组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-16 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021476@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:🇮🇷 伊朗 vs 🇳🇿 新西兰
-DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 G组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-16 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 G组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-16 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021490@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:🇫🇷 法国 vs 🇸🇳 塞内加尔
-DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 I组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-17 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 I组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-17 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021488@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:🇮🇶 伊拉克 vs 🇳🇴 挪威
-DESCRIPTION:状态：已结束\n比分：1-4\n阶段：小组赛 I组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-17 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-4\n阶段：小组赛 I组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-17 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021496@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:🇦🇷 阿根廷 vs 🇩🇿 阿尔及利亚
-DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 J组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-17 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 J组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-17 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021498@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🇦🇹 奥地利 vs 🇯🇴 约旦
-DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 J组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-17 12:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 J组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-17 12:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021502@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:🇵🇹 葡萄牙 vs 🇨🇩 刚果民主共和国
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 K组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-18 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 K组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-18 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021507@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇭🇷 克罗地亚
-DESCRIPTION:状态：已结束\n比分：4-2\n阶段：小组赛 L组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-18 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-2\n阶段：小组赛 L组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-18 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021510@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:🇬🇭 加纳 vs 🇵🇦 巴拿马
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 L组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-18 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 L组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-18 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021504@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:🇺🇿 乌兹别克斯坦 vs 🇨🇴 哥伦比亚
-DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 K组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-18 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 K组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-18 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021440@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:🇨🇿 捷克 vs 🇿🇦 南非
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 A组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-19 00:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 A组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-19 00:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021446@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:🇨🇭 瑞士 vs 🇧🇦 波黑
-DESCRIPTION:状态：已结束\n比分：4-1\n阶段：小组赛 B组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-19 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-1\n阶段：小组赛 B组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-19 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021450@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:🇨🇦 加拿大 vs 🇶🇦 卡塔尔
-DESCRIPTION:状态：已结束\n比分：6-0\n阶段：小组赛 B组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-19 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：6-0\n阶段：小组赛 B组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-19 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021442@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:🇲🇽 墨西哥 vs 🇰🇷 韩国
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 A组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-19 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 A组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-19 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021462@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:🇺🇸 美国 vs 🇦🇺 澳大利亚
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 D组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-20 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 D组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-20 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021454@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰 vs 🇲🇦 摩洛哥
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 C组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-20 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 C组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-20 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021457@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:🇧🇷 巴西 vs 🇭🇹 海地
-DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 C组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-20 08:30\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 C组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-20 08:30\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021460@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 SUMMARY:🇹🇷 土耳其 vs 🇵🇾 巴拉圭
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 D组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-20 11:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 D组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-20 11:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021472@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:🇳🇱 荷兰 vs 🇸🇪 瑞典
-DESCRIPTION:状态：已结束\n比分：5-1\n阶段：小组赛 F组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-21 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：5-1\n阶段：小组赛 F组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-21 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021469@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:🇩🇪 德国 vs 🇨🇮 科特迪瓦
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 E组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-21 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 E组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-21 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021465@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:🇪🇨 厄瓜多尔 vs 🇨🇼 库拉索
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 E组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-21 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 E组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-21 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021475@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:🇹🇳 突尼斯 vs 🇯🇵 日本
-DESCRIPTION:状态：已结束\n比分：0-4\n阶段：小组赛 F组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-21 12:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-4\n阶段：小组赛 F组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-21 12:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021483@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:🇪🇸 西班牙 vs 🇸🇦 沙特阿拉伯
-DESCRIPTION:状态：已结束\n比分：4-0\n阶段：小组赛 H组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-22 00:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-0\n阶段：小组赛 H组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-22 00:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021477@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:🇧🇪 比利时 vs 🇮🇷 伊朗
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 G组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-22 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 G组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-22 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021487@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:🇺🇾 乌拉圭 vs 🇨🇻 佛得角
-DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 H组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-22 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-2\n阶段：小组赛 H组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-22 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021480@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:🇳🇿 新西兰 vs 🇪🇬 埃及
-DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 G组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-22 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 G组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-22 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021494@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:🇦🇷 阿根廷 vs 🇦🇹 奥地利
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 J组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-23 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：小组赛 J组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-23 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021492@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:🇫🇷 法国 vs 🇮🇶 伊拉克
-DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 I组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-23 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-0\n阶段：小组赛 I组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-23 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021491@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:🇳🇴 挪威 vs 🇸🇳 塞内加尔
-DESCRIPTION:状态：已结束\n比分：3-2\n阶段：小组赛 I组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-23 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-2\n阶段：小组赛 I组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-23 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021499@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:🇯🇴 约旦 vs 🇩🇿 阿尔及利亚
-DESCRIPTION:状态：已结束\n比分：1-2\n阶段：小组赛 J组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-23 11:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-2\n阶段：小组赛 J组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-23 11:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021503@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:🇵🇹 葡萄牙 vs 🇺🇿 乌兹别克斯坦
-DESCRIPTION:状态：已结束\n比分：5-0\n阶段：小组赛 K组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-24 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：5-0\n阶段：小组赛 K组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-24 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021506@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇬🇭 加纳
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 L组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-24 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 L组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-24 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021511@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:🇵🇦 巴拿马 vs 🇭🇷 克罗地亚
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 L组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-24 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 L组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-24 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021501@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 SUMMARY:🇨🇴 哥伦比亚 vs 🇨🇩 刚果民主共和国
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 K组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-24 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 K组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-24 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021448@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇧🇦 波黑 vs 🇶🇦 卡塔尔
-DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 B组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-25 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 B组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-25 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021451@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇨🇭 瑞士 vs 🇨🇦 加拿大
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 B组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-25 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 B组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-25 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021452@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🇲🇦 摩洛哥 vs 🇭🇹 海地
-DESCRIPTION:状态：已结束\n比分：4-2\n阶段：小组赛 C组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-25 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-2\n阶段：小组赛 C组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-25 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021455@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰 vs 🇧🇷 巴西
-DESCRIPTION:状态：已结束\n比分：0-3\n阶段：小组赛 C组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-25 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-3\n阶段：小组赛 C组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-25 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021444@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇨🇿 捷克 vs 🇲🇽 墨西哥
-DESCRIPTION:状态：已结束\n比分：0-3\n阶段：小组赛 A组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-25 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-3\n阶段：小组赛 A组\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-06-25 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021445@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇿🇦 南非 vs 🇰🇷 韩国
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 A组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-25 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：小组赛 A组\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-25 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021466@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇪🇨 厄瓜多尔 vs 🇩🇪 德国
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 E组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-26 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 E组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-26 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021468@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇨🇼 库拉索 vs 🇨🇮 科特迪瓦
-DESCRIPTION:状态：已结束\n比分：0-2\n阶段：小组赛 E组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-26 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-2\n阶段：小组赛 E组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-26 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021471@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇯🇵 日本 vs 🇸🇪 瑞典
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 F组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-26 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 F组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-26 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021473@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇹🇳 突尼斯 vs 🇳🇱 荷兰
-DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 F组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-26 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 F组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-26 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021459@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇹🇷 土耳其 vs 🇺🇸 美国
-DESCRIPTION:状态：已结束\n比分：3-2\n阶段：小组赛 D组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-26 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-2\n阶段：小组赛 D组\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-26 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021461@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇵🇾 巴拉圭 vs 🇦🇺 澳大利亚
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 D组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-26 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 D组\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-06-26 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021489@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇳🇴 挪威 vs 🇫🇷 法国
-DESCRIPTION:状态：已结束\n比分：1-4\n阶段：小组赛 I组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-27 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-4\n阶段：小组赛 I组\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-27 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021493@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇸🇳 塞内加尔 vs 🇮🇶 伊拉克
-DESCRIPTION:状态：已结束\n比分：5-0\n阶段：小组赛 I组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-27 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：5-0\n阶段：小组赛 I组\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-06-27 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021484@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇺🇾 乌拉圭 vs 🇪🇸 西班牙
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 H组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-27 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：小组赛 H组\n场地：墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）\n北京时间：2026-06-27 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 瓜达拉哈拉 瓜达拉哈拉体育场（阿克伦体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021485@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇨🇻 佛得角 vs 🇸🇦 沙特阿拉伯
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 H组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-27 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 H组\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-27 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021479@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇪🇬 埃及 vs 🇮🇷 伊朗
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 G组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-27 11:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：小组赛 G组\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-06-27 11:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021481@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇳🇿 新西兰 vs 🇧🇪 比利时
-DESCRIPTION:状态：已结束\n比分：1-5\n阶段：小组赛 G组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-27 11:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-5\n阶段：小组赛 G组\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-06-27 11:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021508@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇵🇦 巴拿马 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-DESCRIPTION:状态：已结束\n比分：0-2\n阶段：小组赛 L组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-28 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-2\n阶段：小组赛 L组\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-06-28 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021509@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇭🇷 克罗地亚 vs 🇬🇭 加纳
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 L组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-28 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：小组赛 L组\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-06-28 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021500@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇩 刚果民主共和国 vs 🇺🇿 乌兹别克斯坦
-DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 K组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-28 07:30\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-1\n阶段：小组赛 K组\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-06-28 07:30\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021505@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇴 哥伦比亚 vs 🇵🇹 葡萄牙
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 K组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-28 07:30\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：小组赛 K组\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-06-28 07:30\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021495@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇯🇴 约旦 vs 🇦🇷 阿根廷
-DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 J组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-28 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-3\n阶段：小组赛 J组\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-06-28 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021497@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇩🇿 阿尔及利亚 vs 🇦🇹 奥地利
-DESCRIPTION:状态：已结束\n比分：3-3\n阶段：小组赛 J组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-28 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-3\n阶段：小组赛 J组\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-06-28 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021518@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 SUMMARY:🇿🇦 南非 vs 🇨🇦 加拿大
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：三十二强赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-29 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：三十二强赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-06-29 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021516@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:🇧🇷 巴西 vs 🇯🇵 日本
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-30 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-06-30 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021513@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 SUMMARY:🇩🇪 德国 vs 🇵🇾 巴拉圭
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-30 04:30\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-06-30 04:30\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021522@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 SUMMARY:🇳🇱 荷兰 vs 🇲🇦 摩洛哥
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-30 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）\n北京时间：2026-06-30 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 蒙特雷 蒙特雷体育场（BBVA体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021514@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 SUMMARY:🇨🇮 科特迪瓦 vs 🇳🇴 挪威
-DESCRIPTION:状态：已结束\n比分：1-2\n阶段：三十二强赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-01 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-2\n阶段：三十二强赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-01 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021523@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 SUMMARY:🇫🇷 法国 vs 🇸🇪 瑞典
-DESCRIPTION:状态：已结束\n比分：3-0\n阶段：三十二强赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-01 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-0\n阶段：三十二强赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-01 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021520@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260701T020000Z
 DTEND:20260701T040000Z
 SUMMARY:🇲🇽 墨西哥 vs 🇪🇨 厄瓜多尔
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-07-01 10:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-07-01 10:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021512@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇨🇩 刚果民主共和国
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-02 00:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-02 00:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021525@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 SUMMARY:🇧🇪 比利时 vs 🇸🇳 塞内加尔
-DESCRIPTION:状态：已结束\n比分：3-2\n阶段：三十二强赛\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-07-02 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-2\n阶段：三十二强赛\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-07-02 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021524@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 SUMMARY:🇺🇸 美国 vs 🇧🇦 波黑
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-07-02 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）\n北京时间：2026-07-02 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 旧金山湾区 旧金山湾区体育场（李维斯体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021519@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 SUMMARY:🇪🇸 西班牙 vs 🇦🇹 奥地利
-DESCRIPTION:状态：已结束\n比分：3-0\n阶段：三十二强赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-07-03 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-0\n阶段：三十二强赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-07-03 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021526@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 SUMMARY:🇵🇹 葡萄牙 vs 🇭🇷 克罗地亚
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-07-03 07:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：三十二强赛\n场地：加拿大 多伦多 多伦多体育场（BMO球场）\n北京时间：2026-07-03 07:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 多伦多 多伦多体育场（BMO球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021527@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 SUMMARY:🇨🇭 瑞士 vs 🇩🇿 阿尔及利亚
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-07-03 11:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：三十二强赛\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-07-03 11:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021515@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 SUMMARY:🇦🇺 澳大利亚 vs 🇪🇬 埃及
-DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-04 02:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-1\n阶段：三十二强赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-04 02:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021521@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 SUMMARY:🇦🇷 阿根廷 vs 🇨🇻 佛得角
-DESCRIPTION:状态：已结束\n比分：3-2\n阶段：三十二强赛\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-04 06:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-2\n阶段：三十二强赛\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-04 06:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021517@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 SUMMARY:🇨🇴 哥伦比亚 vs 🇬🇭 加纳
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：三十二强赛\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-07-04 09:30\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：三十二强赛\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-07-04 09:30\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021530@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:🇨🇦 加拿大 vs 🇲🇦 摩洛哥
-DESCRIPTION:状态：已结束\n比分：0-3\n阶段：八分之一决赛\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-07-05 01:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-3\n阶段：八分之一决赛\n场地：美国 休斯顿 休斯顿体育场（NRG体育场）\n北京时间：2026-07-05 01:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 休斯顿 休斯顿体育场（NRG体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021533@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:🇵🇾 巴拉圭 vs 🇫🇷 法国
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：八分之一决赛\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-07-05 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：八分之一决赛\n场地：美国 费城 费城体育场（林肯金融球场）\n北京时间：2026-07-05 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 费城 费城体育场（林肯金融球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021532@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:🇧🇷 巴西 vs 🇳🇴 挪威
-DESCRIPTION:状态：已结束\n比分：1-2\n阶段：八分之一决赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-06 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-2\n阶段：八分之一决赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-06 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021531@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260706T010000Z
 DTEND:20260706T030000Z
 SUMMARY:🇲🇽 墨西哥 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-DESCRIPTION:状态：已结束\n比分：2-3\n阶段：八分之一决赛\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-07-06 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-3\n阶段：八分之一决赛\n场地：墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）\n北京时间：2026-07-06 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:墨西哥 墨西哥城 墨西哥城体育场（阿兹特克体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021529@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:🇵🇹 葡萄牙 vs 🇪🇸 西班牙
-DESCRIPTION:状态：已结束\n比分：0-1\n阶段：八分之一决赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-07 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-1\n阶段：八分之一决赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-07 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021534@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:🇺🇸 美国 vs 🇧🇪 比利时
-DESCRIPTION:状态：已结束\n比分：1-4\n阶段：八分之一决赛\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-07-07 08:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-4\n阶段：八分之一决赛\n场地：美国 西雅图 西雅图体育场（流明球场）\n北京时间：2026-07-07 08:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 西雅图 西雅图体育场（流明球场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021528@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:🇦🇷 阿根廷 vs 🇪🇬 埃及
-DESCRIPTION:状态：已结束\n比分：3-2\n阶段：八分之一决赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-08 00:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-2\n阶段：八分之一决赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-08 00:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021535@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:🇨🇭 瑞士 vs 🇨🇴 哥伦比亚
-DESCRIPTION:状态：已结束\n比分：0-0\n阶段：八分之一决赛\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-07-08 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-0\n阶段：八分之一决赛\n场地：加拿大 温哥华 温哥华BC体育馆（BC Place）\n北京时间：2026-07-08 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:加拿大 温哥华 温哥华BC体育馆（BC Place）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021536@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:🇫🇷 法国 vs 🇲🇦 摩洛哥
-DESCRIPTION:状态：已结束\n比分：2-0\n阶段：四分之一决赛\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-07-10 04:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-0\n阶段：四分之一决赛\n场地：美国 波士顿 波士顿体育场（吉列体育场）\n北京时间：2026-07-10 04:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 波士顿 波士顿体育场（吉列体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021538@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:🇪🇸 西班牙 vs 🇧🇪 比利时
-DESCRIPTION:状态：已结束\n比分：2-1\n阶段：四分之一决赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-07-11 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：2-1\n阶段：四分之一决赛\n场地：美国 洛杉矶 洛杉矶体育场（SoFi体育场）\n北京时间：2026-07-11 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 洛杉矶 洛杉矶体育场（SoFi体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021539@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:🇳🇴 挪威 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-DESCRIPTION:状态：已结束\n比分：1-2\n阶段：四分之一决赛\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-12 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-2\n阶段：四分之一决赛\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-12 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021537@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:🇦🇷 阿根廷 vs 🇨🇭 瑞士
-DESCRIPTION:状态：已结束\n比分：3-1\n阶段：四分之一决赛\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-07-12 09:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：3-1\n阶段：四分之一决赛\n场地：美国 堪萨斯城 堪萨斯城体育场（箭头体育场）\n北京时间：2026-07-12 09:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 堪萨斯城 堪萨斯城体育场（箭头体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021541@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:🇫🇷 法国 vs 🇪🇸 西班牙
-DESCRIPTION:状态：已结束\n比分：0-2\n阶段：半决赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-15 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：0-2\n阶段：半决赛\n场地：美国 达拉斯 达拉斯体育场（AT&T体育场）\n北京时间：2026-07-15 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 达拉斯 达拉斯体育场（AT&T体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021540@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇦🇷 阿根廷
-DESCRIPTION:状态：已结束\n比分：1-2\n阶段：半决赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-16 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-2\n阶段：半决赛\n场地：美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）\n北京时间：2026-07-16 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 亚特兰大 亚特兰大体育场（梅赛德斯-奔驰体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021542@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:🇫🇷 法国 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-DESCRIPTION:状态：已结束\n比分：4-6\n阶段：Bronze final\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-19 05:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：4-6\n阶段：Bronze final\n场地：美国 迈阿密 迈阿密体育场（硬石体育场）\n北京时间：2026-07-19 05:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 迈阿密 迈阿密体育场（硬石体育场）
 END:VEVENT
 BEGIN:VEVENT
 UID:400021543@worldcup-2026-calendar
-DTSTAMP:20260815T015726Z
+DTSTAMP:20260815T054903Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:🇪🇸 西班牙 vs 🇦🇷 阿根廷
-DESCRIPTION:状态：已结束\n比分：1-0\n阶段：决赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-20 03:00\n最近更新时间：2026-08-15 09:57\n数据来源：
+DESCRIPTION:状态：已结束\n比分：1-0\n阶段：决赛\n场地：美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）\n北京时间：2026-07-20 03:00\n最近更新时间：2026-08-15 13:49\n数据来源：
 LOCATION:美国 新泽西 纽约/新泽西体育场（大都会人寿体育场）
 END:VEVENT
 END:VCALENDAR
